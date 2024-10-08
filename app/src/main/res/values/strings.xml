@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Valoracion Hotel</string>
+    <string name="lbl_info1">Personal</string>
+    <string name="lbl_rating1">0</string>
+    <string name="lbl_info2">Instalaciones</string>
+    <string name="lbl_rating2">0</string>
+    <string name="lbl_info3">Servicios</string>
+    <string name="lbl_rating3">0</string>
+    <string name="lbl_info4">Limpieza</string>
+    <string name="lbl_rating4">0</string>
+    <string name="lbl_info5">Confort</string>
+    <string name="lbl_rating5">0</string>
+    <string name="lbl_info6">Calidad/Precio</string>
+    <string name="lbl_rating6">0</string>
+    <string name="lbl_info7">Ubicación</string>
+    <string name="lbl_rating7">0</string>
+    <string name="txt_resultado">0.0</string>
+    <string name="btn_Borrar">Nueva valoración</string>
+</resources>
